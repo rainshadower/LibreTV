@@ -16,32 +16,6 @@ const CUSTOMER_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-     ckzy: {
-        api: 'https://www.ckzy1.com',
-        name: 'CK资源'
-    },
-    jkun: {
-        api: 'https://jkunzyapi.com',
-        name: 'jkun资源'
-    },
-    souav: {
-        api: 'https://api.souavzy.vip',
-        name: 'souav资源',
-        adult: true
-    },
-    r155: {
-        api: 'https://155api.com',
-        name: '155资源'
-    },
-    lsb: {
-        api: 'https://apilsbzy1.com',
-        name: 'lsb资源'
-    },
-    huangcang: {
-        api: 'https://hsckzy.vip',
-        name: '黄色仓库',
-        detail: 'https://hsckzy.vip'
-    },
     xiaomaomi: {
         api: 'https://zy.xmm.hk/api.php/provide/vod',
         name: '小猫咪资源',
@@ -117,13 +91,30 @@ const CUSTOMER_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源'
-    },    
+    ckzy: {
+        api: 'https://ckzy.me/api.php/provide/vod/',
+        name: 'CK资源',
+        detail: 'https://www.ckzy1.com'
+    },
+    jkun: {
+        api: 'https://www.jkunzyapi.com/api.php/provide/vod/',
+        name: 'jkun资源',
+        detail: 'https://jkunzyapi.com'
+    },
+    souav: {
+        api: 'https://api.souavzy.vip/api.php/provide/vod/',
+        name: 'souav资源',
+        detail: 'https://api.souavzy.vip'
+    },   
+        huangcang: {
+        api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/',
+        name: '黄色仓库',
+        detail: 'https://hsckzy.vip'
+    },
     yutu: {
-        api: 'https://yutuzy10.com',
-        name: '玉兔资源'
+        api: 'https://apiyutu.com/api.php/providedao/vod/',
+        name: '玉兔资源',
+        detail: 'https://yutuzy10.com'
     }
 };
 
