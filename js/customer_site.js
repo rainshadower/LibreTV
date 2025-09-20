@@ -24,10 +24,6 @@ const CUSTOMER_SITES = {
         api: 'https://jkunzyapi.com',
         name: 'jkun资源'
     },
-    bwzy: {
-        api: 'https://api.bwzym3u8.com',
-        name: '百万资源'
-    },
     souav: {
         api: 'https://api.souavzy.vip',
         name: 'souav资源',
