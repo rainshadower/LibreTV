@@ -91,30 +91,35 @@ const CUSTOMER_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    ckzy: {
+   ckzy: {
         api: 'https://ckzy.me/api.php/provide/vod/',
         name: 'CK资源',
-        detail: 'https://www.ckzy1.com'
+        detail: 'https://www.ckzy1.com',
+        adult: true
     },
     jkun: {
         api: 'https://www.jkunzyapi.com/api.php/provide/vod/',
         name: 'jkun资源',
-        detail: 'https://jkunzyapi.com'
+        detail: 'https://jkunzyapi.com',
+        adult: true
     },
     souav: {
         api: 'https://api.souavzy.vip/api.php/provide/vod/',
         name: 'souav资源',
-        detail: 'https://api.souavzy.vip'
+        detail: 'https://api.souavzy.vip',
+        adult: true
     },   
         huangcang: {
         api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/',
         name: '黄色仓库',
-        detail: 'https://hsckzy.vip'
+        detail: 'https://hsckzy.vip',
+        adult: true
     },
     yutu: {
         api: 'https://apiyutu.com/api.php/providedao/vod/',
         name: '玉兔资源',
-        detail: 'https://yutuzy10.com'
+        detail: 'https://yutuzy10.com',
+        adult: true
     }
 };
 
