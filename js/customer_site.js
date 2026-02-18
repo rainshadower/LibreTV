@@ -121,12 +121,6 @@ const CUSTOMER_SITES = {
         detail: 'https://yutuzy10.com',
         adult: true
     },
-    155: {
-        api: 'https://155api.com/api.php/provide/vod',
-        name: 'AV-155资源',
-        detail: 'https://155api.com',
-        adult: true
-    },
     shayu: {
           api: 'https://shayuapi.com/api.php/provide/vod',
           name: 'AV-鲨鱼资源',
