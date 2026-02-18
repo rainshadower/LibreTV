@@ -127,10 +127,6 @@ const CUSTOMER_SITES = {
         detail: 'https://155api.com',
         adult: true
     },
-     lbapi9: {
-  api: 'https://lbapi9.com/api.php/provide/vod',
-  name: 'AV-乐播资源',
-},
     shayu: {
           api: 'https://shayuapi.com/api.php/provide/vod',
           name: 'AV-鲨鱼资源',
