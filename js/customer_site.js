@@ -120,13 +120,13 @@ const CUSTOMER_SITES = {
         name: '玉兔资源',
         detail: 'https://yutuzy10.com',
         adult: true
-    }
+    },
     shayu: {
           api: 'https://shayuapi.com/api.php/provide/vod',
           name: 'AV-鲨鱼资源',
-          adult: true
-          detail: 'https://shayuapi.com'
-    },
+          detail: 'https://shayuapi.com',
+          adult: true          
+    }
 };
 
 // 调用全局方法合并
