@@ -121,6 +121,12 @@ const CUSTOMER_SITES = {
         detail: 'https://yutuzy10.com',
         adult: true
     }
+    shayu: {
+          api: 'https://shayuapi.com/api.php/provide/vod',
+          name: 'AV-鲨鱼资源',
+          adult: true
+          detail: 'https://shayuapi.com'
+    },
 };
 
 // 调用全局方法合并
