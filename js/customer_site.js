@@ -124,7 +124,7 @@ const CUSTOMER_SITES = {
      155api: {
   api: 'https://155api.com/api.php/provide/vod',
   name: 'AV-155资源',
-  detail: 'https://155api.com'
+  detail: 'https://155api.com',
 },
     shayu: {
           api: 'https://shayuapi.com/api.php/provide/vod',
