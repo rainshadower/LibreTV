@@ -109,7 +109,7 @@ const CUSTOMER_SITES = {
         detail: 'https://api.souavzy.vip',
         adult: true
     },   
-        huangcang: {
+    huangcang: {
         api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/',
         name: '黄色仓库',
         detail: 'https://hsckzy.vip',
@@ -121,10 +121,11 @@ const CUSTOMER_SITES = {
         detail: 'https://yutuzy10.com',
         adult: true
     },
-    155api: {
+    155: {
         api: 'https://155api.com/api.php/provide/vod',
         name: 'AV-155资源',
-        detail: 'https://155api.com'
+        detail: 'https://155api.com',
+        adult: true
     },
     shayu: {
           api: 'https://shayuapi.com/api.php/provide/vod',
